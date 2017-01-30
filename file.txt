@@ -1,9 +1,5 @@
 test file
-<<<<<<< HEAD
-aaaaaaaaaaa
-=======
-aaaaaaaaaa
->>>>>>> branch1
 Nothing
 Master branch
 
+aaaaa
